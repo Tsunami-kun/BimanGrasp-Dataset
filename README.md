@@ -7,8 +7,7 @@ BimanGrasp-Dataset is a large-scale synthetic dataset of a pair of shadow robot 
 
 ## Installation
 
-We suggest to use conda/mamba environments for loading and visualizing bimanual grasp poses.
-
+    # We suggest to use conda/mamba environments for loading and visualizing bimanual grasp poses, e.g.,
     conda create -n bimangrasp python=3.7
     conda activate bimangrasp
 
