@@ -32,3 +32,5 @@ First, download the release dataset and object meshes from https://github.com/Ts
     # This outputs 3d html visualization. ckeck dataset for object names (<object_name>.npy), and use --object_name <object_name> --num <num> to visualize the <num>th pose for the object named by <object_name>.
     
     python visualization.py --object_name <object_name> --num <num>
+
+One visualization example (both 2D screenshot and 3D html vis.) is in the directory examples/.
