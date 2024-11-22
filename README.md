@@ -34,3 +34,22 @@ First, download the release dataset and object meshes from https://github.com/Ts
     python visualization.py --object_name <object_name> --num <num>
 
 One visualization example (both 2D screenshot and 3D html vis.) is in the directory examples/.
+
+## Acknowledgement
+
+We would like to express our gratitude to the authors of the following repositories, from which we referenced code:
+
+* [DexGraspNet](https://github.com/PKU-EPIC/DexGraspNet/tree/main)
+* [UGG](https://github.com/Jiaxin-Lu/ugg/tree/main)
+
+## Citation
+If you find this repository useful in your research, please cite
+```
+@article{shao2024bimanual,
+  title={Bimanual Grasp Synthesis for Dexterous Robot Hands},
+  author={Shao, Yanming and Xiao, Chenxi},
+  journal={IEEE Robotics and Automation Letters},
+  year={2024},
+  publisher={IEEE}
+}
+```
