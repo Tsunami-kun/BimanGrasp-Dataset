@@ -27,6 +27,8 @@ BimanGrasp-Dataset is a large-scale synthetic dataset of a pair of shadow robot 
 
 ## Visualization
 
+First, download the release dataset and object meshes from https://github.com/Tsunami-kun/BimanGrasp-Dataset/releases, and then extract them to the root directory of the repo.
+
     # This outputs 3d html visualization. ckeck dataset for object names (<object_name>.npy), and use --object_name <object_name> --num <num> to visualize the <num>th pose for the object named by <object_name>.
     
     python visualization.py --object_name <object_name> --num <num>
