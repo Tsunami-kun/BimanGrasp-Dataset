@@ -27,7 +27,7 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
     parser.add_argument('--object_name', type=str, default='Asus_M5A99FX_PRO_R20_Motherboard_ATX_Socket_AM3')
-    parser.add_argument('--result_path', type=str, default='BimanGrasp_dataset_Part1')
+    parser.add_argument('--result_path', type=str, default='BimanGrasp-Dataset-Release-v1')
     parser.add_argument('--num', type=int, default=0)
 
     args = parser.parse_args()
@@ -51,7 +51,7 @@ if __name__ == '__main__':
     )
     
     object_model = ObjectModel(
-        data_root_path='object_Part1',
+        data_root_path='Object-Release-v1',
         batch_size_each=1,
         num_samples=2000, 
         device=device
