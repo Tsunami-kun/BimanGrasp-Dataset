@@ -3,7 +3,7 @@ This is the official repo for the release of BimanGrasp-Dataset of our RA-L 24' 
 
 ## Introduction
 
-BimanGrasp-Dataset is a large-scale synthetic dataset of a pair of shadow robot hands grasping various objects. All the grasps are verified with Isaac Gym simulator, and through penetration test (threshold： 1.5 mm). In this repo, we provide the grasp pose data together with object meshes and other assets. All the grasps can be visualized with plotly package.
+BimanGrasp-Dataset is a large-scale synthetic dataset of a pair of shadow robot hands grasping various objects. All the grasps are verified with Isaac Gym simulator, and through penetration test (less than 1.5 mm). In this repo, we provide the grasp pose data together with object meshes and other assets. All the grasps can be visualized with plotly package.
 
 ## Installation
 
