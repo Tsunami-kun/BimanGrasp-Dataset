@@ -35,6 +35,12 @@ First, download the release dataset and object meshes from https://github.com/Ts
 
 One visualization example (both 2D screenshot and 3D html vis.) is in the directory examples/.
 
+## Examples
+
+[3D Visualization Example](examples/example.html)
+
+![2D Screenshot Example](examples/example.png)
+
 ## Acknowledgement
 
 We would like to express our gratitude to the authors of the following repositories, from which we referenced code:
