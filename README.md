@@ -91,6 +91,12 @@ First, download the release dataset and object meshes from https://github.com/Ts
 
 One visualization example (both 2D screenshot and 3D html vis.) is in the directory examples/.
 
+## Examples
+
+[3D Visualization Example](examples/example.html)
+
+![2D Screenshot Example](examples/example.png)
+
 ## Acknowledgement
 
 We would like to express our gratitude to the authors of the following repositories, from which we referenced code:
@@ -99,13 +105,17 @@ We would like to express our gratitude to the authors of the following repositor
 * [UGG](https://github.com/Jiaxin-Lu/ugg/tree/main)
 
 ## Citation
-If you find this repository useful in your research, please cite
+If you find BimanGrasp-Dataset useful in your research, please cite
 ```
 @article{shao2024bimanual,
   title={Bimanual Grasp Synthesis for Dexterous Robot Hands},
   author={Shao, Yanming and Xiao, Chenxi},
   journal={IEEE Robotics and Automation Letters},
   year={2024},
-  publisher={IEEE}
+  volume={9},
+  number={12},
+  pages={11377-11384},
+  publisher={IEEE},
+  doi={10.1109/LRA.2024.3490393}
 }
 ```
