@@ -4,7 +4,7 @@ This is the official repo for the release of BimanGrasp-Dataset of our RA-L 24' 
 
 
 <p align="center">
-    <a href="https://wuxiaofei01.github.io/"><strong>Yanming Shao</strong></a>
+    <strong>Yanming Shao</strong></a>
     ·
     <strong>Chenxi Xiao</strong>
 
