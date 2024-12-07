@@ -24,9 +24,9 @@ This is the official repo for the release of BimanGrasp-Dataset of our Paper
 
 <table>
   <tr>
-    <td><img src="gif/A1.gif" alt="GIF 1" width="255"></td>
-    <td><img src="gif/A2.gif" alt="GIF 2" width="255"></td>
-    <td><img src="gif/A3.gif" alt="GIF 3" width="255"></td>
+    <td><img src="gif/A1.gif" alt="GIF 1" width="250"></td>
+    <td><img src="gif/A2.gif" alt="GIF 2" width="250"></td>
+    <td><img src="gif/A3.gif" alt="GIF 3" width="250"></td>
   </tr>
   <tr>
     <td><img src="gif/B1.gif" alt="GIF 4" width="220"></td>
