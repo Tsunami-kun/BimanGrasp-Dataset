@@ -24,19 +24,14 @@ This is the official repo for the release of BimanGrasp-Dataset of our Paper
 
 <table>
   <tr>
-    <td><img src="gif/A1.gif" alt="GIF 1" width="200"></td>
-    <td><img src="gif/A2.gif" alt="GIF 2" width="200"></td>
-    <td><img src="gif/A3.gif" alt="GIF 3" width="200"></td>
+    <td><img src="gif/A1.gif" alt="GIF 1" width="30%"></td>
+    <td><img src="gif/A2.gif" alt="GIF 2" width="30%"></td>
+    <td><img src="gif/A3.gif" alt="GIF 3" width="30%"></td>
   </tr>
   <tr>
-    <td><img src="gif/B1.gif" alt="GIF 4" width="200"></td>
-    <td><img src="gif/B2.gif" alt="GIF 5" width="200"></td>
-    <td><img src="gif/B3.gif" alt="GIF 6" width="200"></td>
-  </tr>
-  <tr>
-    <td><img src="gif/C1.gif" alt="GIF 7" width="200"></td>
-    <td><img src="gif/C2.gif" alt="GIF 8" width="200"></td>
-    <td><img src="gif/C3.gif" alt="GIF 9" width="200"></td>
+    <td><img src="gif/B1.gif" alt="GIF 4" width="30%"></td>
+    <td><img src="gif/B2.gif" alt="GIF 5" width="30%"></td>
+    <td><img src="gif/B3.gif" alt="GIF 6" width="30%"></td>
   </tr>
 </table>
 
