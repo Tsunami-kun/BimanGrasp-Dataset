@@ -1,6 +1,62 @@
 # BimanGrasp-Dataset
 This is the official repo for the release of BimanGrasp-Dataset of our RA-L 24' Paper "Bimanual Grasp Synthesis for Dexterous Robot Hands". 
 
+
+
+<p align="center">
+    <a href="https://wuxiaofei01.github.io/"><strong>Yanming Shao</strong></a>
+    ·
+    <strong>Chenxi Xiao</strong>
+
+  </p>
+  <h3 align="center">RA-L 24' | Transferred to ICRA 25'</h3>
+
+<p align="center">
+    <a href="https://arxiv.org/abs/2411.15903">
+      <img src='https://img.shields.io/badge/Paper-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=66cc00&color=94DD15' alt='Paper PDF'>
+    </a>
+</p>
+
+
+
+<p align="center">
+  <img src="gif/A1.gif" alt="GIF 1" />
+  <img src="gif/A2.gif" alt="GIF 2" />
+  <img src="gif/A3.gif" alt="GIF 3" />
+</p>
+
+<p align="center">
+  <img src="gif/B1.gif" alt="GIF 4" />
+  <img src="gif/B2.gif" alt="GIF 5" />
+  <img src="gif/B3.gif" alt="GIF 6" />
+</p>
+
+<p align="center">
+  <img src="gif/C1.gif" alt="GIF 7" />
+  <img src="gif/C2.gif" alt="GIF 8" />
+  <img src="gif/C3.gif" alt="GIF 9" />
+</p>
+
+<p align="center">
+  <img src="gif/D1.gif" alt="GIF 10" />
+  <img src="gif/D2.gif" alt="GIF 11" />
+  <img src="gif/D3.gif" alt="GIF 12" />
+</p>
+
+<p align="center">
+  <img src="gif/E1.gif" alt="GIF 13" />
+  <img src="gif/E2.gif" alt="GIF 14" />
+  <img src="gif/E3.gif" alt="GIF 15" />
+</p>
+
+<p align="center">
+  <img src="gif/F1.gif" alt="GIF 16" />
+  <img src="gif/F2.gif" alt="GIF 17" />
+  <img src="gif/F3.gif" alt="GIF 18" />
+</p>
+
+
+
 ## Introduction
 
 BimanGrasp-Dataset is a large-scale synthetic dataset of a pair of shadow robot hands grasping various objects. All the grasps are verified with Isaac Gym simulator, and through penetration test (less than 1.5 mm). In this repo, we provide the grasp pose data together with object meshes and other assets. All the grasps can be visualized with plotly package.
