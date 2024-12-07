@@ -1,5 +1,5 @@
 # BimanGrasp-Dataset
-This is the official repo for the release of BimanGrasp-Dataset of our Paper
+This is the official repository for the BimanGrasp-Dataset release of our Paper
 
 
 <p align="center">
@@ -20,6 +20,7 @@ This is the official repo for the release of BimanGrasp-Dataset of our Paper
     </a>
 </p>
 
+BimanGrasp-Dataset contains diverse bimanual dexterous grasping for various objects, as shown in the following gif figures (of 6 objects)
 
 <table>
   <tr>
