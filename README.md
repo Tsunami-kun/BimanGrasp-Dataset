@@ -20,37 +20,37 @@ This is the official repo for the release of BimanGrasp-Dataset of our Paper
     </a>
 </p>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; width: 100%;">
   <img src="gif/A1.gif" alt="GIF 1" style="width: 30%;" />
   <img src="gif/A2.gif" alt="GIF 2" style="width: 30%;" />
   <img src="gif/A3.gif" alt="GIF 3" style="width: 30%;" />
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; width: 100%;">
   <img src="gif/B1.gif" alt="GIF 4" style="width: 30%;" />
   <img src="gif/B2.gif" alt="GIF 5" style="width: 30%;" />
   <img src="gif/B3.gif" alt="GIF 6" style="width: 30%;" />
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; width: 100%;">
   <img src="gif/C1.gif" alt="GIF 7" style="width: 30%;" />
   <img src="gif/C2.gif" alt="GIF 8" style="width: 30%;" />
   <img src="gif/C3.gif" alt="GIF 9" style="width: 30%;" />
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; width: 100%;">
   <img src="gif/D1.gif" alt="GIF 10" style="width: 30%;" />
   <img src="gif/D2.gif" alt="GIF 11" style="width: 30%;" />
   <img src="gif/D3.gif" alt="GIF 12" style="width: 30%;" />
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; width: 100%;">
   <img src="gif/E1.gif" alt="GIF 13" style="width: 30%;" />
   <img src="gif/E2.gif" alt="GIF 14" style="width: 30%;" />
   <img src="gif/E3.gif" alt="GIF 15" style="width: 30%;" />
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; width: 100%;">
   <img src="gif/F1.gif" alt="GIF 16" style="width: 30%;" />
   <img src="gif/F2.gif" alt="GIF 17" style="width: 30%;" />
   <img src="gif/F3.gif" alt="GIF 18" style="width: 30%;" />
