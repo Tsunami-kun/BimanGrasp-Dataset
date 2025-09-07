@@ -1,5 +1,5 @@
 # BimanGrasp-Dataset
-This is the official repository for the BimanGrasp-Dataset release of our Paper
+This is the official repository for the BimanGrasp-Dataset release of paper
 
 
 <p align="center">
@@ -12,7 +12,7 @@ This is the official repository for the BimanGrasp-Dataset release of our Paper
     <strong>Chenxi Xiao*</strong>
  </p>
  
-<h3 align="center">RA-L 24' | Transferred to ICRA 25'</h3>
+<h3 align="center">RA-L 24' | presented at ICRA 25'</h3>
 
 <p align="center">
     <a href="https://arxiv.org/abs/2411.15903">
@@ -102,6 +102,10 @@ We would like to express our gratitude to the authors of the following repositor
 
 * [DexGraspNet](https://github.com/PKU-EPIC/DexGraspNet/tree/main)
 * [UGG](https://github.com/Jiaxin-Lu/ugg/tree/main)
+
+## Grasp Generation Repo
+
+Our released BimanGrasp-Generation is in this repo: [[BimanGrasp-Dataset](https://github.com/Tsunami-kun/BimanGrasp-Dataset)].
 
 ## Citation
 If you find BimanGrasp-Dataset useful in your research, please cite
