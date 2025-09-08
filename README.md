@@ -12,7 +12,7 @@ This is the official repository for the BimanGrasp-Dataset release of paper
     <strong>Chenxi Xiao*</strong>
  </p>
  
-<h3 align="center">RA-L 24' | presented at ICRA 25'</h3>
+<h3 align="center">RA-L | ICRA 25'</h3>
 
 <p align="center">
     <a href="https://arxiv.org/abs/2411.15903">
